@@ -5,7 +5,7 @@ heroText: DavidGo
 heroImage: /pencil.svg
 tagline: Nothing special just reflection
 actionText: Read the latest →
-actionLink: http://localhost:8081/blog/
+actionLink: /blog/
 features:
 - 
     title: Coding
