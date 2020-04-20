@@ -12,7 +12,7 @@ features:
     details: As a web developer I'm going to post some of my daily gotchas and viewpoints.
 - 
     title: Board games
-    details: Recently I discovered myself as a nerdy boardgamer, so I'm going to share with you this exciting little world!
+    details: Recently I discovered myself as a nerdy boardgamer, so I'm going to share with you my journey in this exciting little world!
 - 
     title: Lifestyle
     details: Regular thoughts and deep contemplation if there is :)
