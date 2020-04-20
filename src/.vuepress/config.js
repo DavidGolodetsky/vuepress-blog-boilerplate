@@ -1,20 +1,21 @@
 const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
-	title: 'My New VuePress Blog',
+	title: 'DavidGo',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://wwww.github.com',
+		repo: 'https://github.com/DavidGolodetsky/vuepress-blog-boilerplate',
 		repoLabel: 'Repo',
 		editLinks: true,
 		editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
-			{ text: 'Home', link: '/' }, 
+			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
+			{ text: 'About', link: '/about/' },
 			{ text: 'Archive', link: '/archive/' },
 			{ text: 'RSS Feed', link: '/rss.xml' }
 		],
-		logo: '/vuepress-blog-logo.png',
+		logo: '/pencil.svg',
 		docsDir: 'src',
 		pageSize: 5,
 		startPage: 0

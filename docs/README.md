@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /vuepress-blog-logo.png
+heroImage: /pencil.svg
 heroText: VuePress Blog Boilerplate
 tagline: An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
 actionText: Get Started →
