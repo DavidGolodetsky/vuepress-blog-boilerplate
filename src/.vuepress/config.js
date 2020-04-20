@@ -37,7 +37,8 @@ module.exports = {
 			}
 		],
 		'vuepress-plugin-reading-time',
-		'vuepress-plugin-janitor'
+		'vuepress-plugin-janitor',
+		'social-share'
 	],
 	head: [
 		['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-icon.png' }],
