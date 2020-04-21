@@ -3,7 +3,7 @@ title: David Golodetskiy Blog
 home: true
 heroText: DavidGo
 heroImage: /pencil.svg
-# tagline: Let it be
+tagline: Let it be
 actionText: Read the latest →
 actionLink: /blog/
 features:
