@@ -15,7 +15,7 @@ features:
     details: Recently I discovered myself as a nerdy boardgamer, so I'm going to share with you my journey in this exciting little world!
 - 
     title: Lifestyle
-    details: Regular thoughts and deep contemplation if there is :)
+    details: Regular thoughts and deep contemplation if there are any :)
 
 footer: © DavidGo 2020. Made with VuePress.
 ---
