@@ -8,8 +8,6 @@ tags:
     - Board games
 ---
 
-## Inis —  my favourite board game so far
-
 > At the head of your ship, you eagerly search for any sign of land. As
 > you peer through the dissipating mist, it finally gives way to the
 > silhouette of cliffs — you have arrived at your new home.
