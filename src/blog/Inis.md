@@ -21,7 +21,7 @@ Meet Inis —  my favourite board game so far. The setting is about colonization
 
 ---
 
-Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that ,she is much better in it than I am, but I won't give it up so easily 😡. Here is our statistics from my app GeekScore which I should definitely write about later!
+Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that ,she is much better in it than I am, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
 
 ![GeekScore stats](https://i.ibb.co/P6SDCdg/Webp-net-resizeimage-1.jpg)
 
