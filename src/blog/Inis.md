@@ -21,17 +21,17 @@ Meet Inis —  my favourite board game so far. The setting is about colonization
 
 ---
 
-Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that ,she is much better in it than I am, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
+Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that she is much better in it than I am, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
 
 ![GeekScore stats](https://i.ibb.co/P6SDCdg/Webp-net-resizeimage-1.jpg)
 
 ---
 
-Gameplay reminds me Ciclades or GoT, but drafting technique make it more like a chess. It shines the most in duel games, since you know *almost* all your opponent 's cards, and you can make cautious decisions upon it. 
+Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. It shines the most in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
 
-But in the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You need to make allies against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games. t
+But in the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You need to make allies against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
 
-There is room for bluffing and play at giveaway in order to win. And of course a nice portion of randomness, which make the game  Epic tale cards. Each card is a reference to a certain Celtic myth and they painted just wonderful! 
+There is room for bluffing and play at giveaway in order to win. And of course a nice portion of randomness, which make the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! 
 
 ![](https://images-cdn.asmodee.us/filer_public/db/47/db474f85-be6e-4b30-82ef-8f041e0ca0c2/ini01_card_deirdres-beauty.png)
 
