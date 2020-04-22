@@ -1,6 +1,6 @@
 ---
-title: Inis —  my favourite board game so far
-date: 2020-04-22 20:01:00
+title: Inis — my favourite board game so far
+date: 2020-04-22
 excerpt: The setting is about colonization of Ireland by ancient Celts. As a chieftain you need to conquest new lands, protect your clans and build sanctuaries to pray your gods
 type: post
 blog: true
