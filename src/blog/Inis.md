@@ -31,7 +31,7 @@ Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like c
 
 In the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You must to create alliances against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
 
-There is room for bluffing and play at giveaway in order to win. And of course a nice portion of randomness, which make the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! 
+There is a place for bluffing and playing giveaways. And of course, a pleasant portion of randomness that makes the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! 
 
 ![](https://images-cdn.asmodee.us/filer_public/db/47/db474f85-be6e-4b30-82ef-8f041e0ca0c2/ini01_card_deirdres-beauty.png)
 
