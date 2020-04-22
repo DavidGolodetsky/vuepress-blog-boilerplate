@@ -14,22 +14,22 @@ tags:
 
 ![](https://cdn.1j1ju.com/thumbs/game-lg/medias/1b/d9/5c-inis-2018-cover.jpeg)
 
-Meet Inis —  my favourite board game so far. The setting is about colonization of Ireland by ancient Celts. As a chieftain you need to conquest new lands, protect your clans and build sanctuaries to pray your gods. It's highly competitive, deep game with many options to win.
+Meet Inis —  my favourite board game so far. The setting is about colonization of Ireland by the ancient Celts. As a chieftain you need to conquer new lands, defend your clans and build sanctuaries to pray your gods. It's highly competitive, deep game with many opportunities for victory.
  [Inis on BGG](https://boardgamegeek.com/boardgame/155821/inis)
 
 ![Our holly table for board games](https://i.ibb.co/FxZq6V0/IMG-20200419-180445-336.jpg)
 
 ---
 
-Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that she is much better in it than I am, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
+Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that she plays much better than me, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
 
 ![GeekScore stats](https://i.ibb.co/P6SDCdg/Webp-net-resizeimage-1.jpg)
 
 ---
 
-Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. It shines the most in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
+Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. This shines the most in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
 
-But in the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You need to make allies against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
+In the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You must to create alliances against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
 
 There is room for bluffing and play at giveaway in order to win. And of course a nice portion of randomness, which make the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! 
 
