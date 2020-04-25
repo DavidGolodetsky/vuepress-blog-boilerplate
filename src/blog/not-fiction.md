@@ -18,7 +18,8 @@ There is an opinion that a book has an advantage over a film in terms of immersi
 
 Being a writer, Krakauer worked as a journalist in Outside magazine. At that time, he was seriously interested in mountaineering and the magazine sponsored his participation in an expedition to Everest in 1996. The expedition turned out to be tragic, the details of the incident were documented by the writer indicating the exact time, like an investigator.  Harshly, accurately, succinctly in the style of Hemingway he describes the peaks blown by the wind, cracks in the glacier and heaps of used gas cylinders on the route.
 
-> Now, for the first time on the expedition the vista was primarily sky rather than earth. (Jon Krakauer. Into thin air)
+> Now, for the first time on the expedition the vista was primarily sky rather than earth.>
+><cite>Jon Krakauer. Into thin air</cite>
 
 In 2015 was released film [Everest](https://www.imdb.com/title/tt2719848/) where Krakauer was played by Michael Kelly. The film has amazing shots of the highest peaks of the planet, but there is no feeling of despair when a blizzard drowns out cries for help from those who lost track.
 
@@ -31,7 +32,8 @@ Orwell, you all know, not only invented a world of nightmare in the novel "1984"
 The writer admires the democratic system of the republican army, their self-organization and devotion to ideals, but soon reality takes its toll. A dirty, brutal and ridiculous trench warfare, where recruits are taught to march instead of  shooting due to lack of ammunition. Military life is described in the smallest detail, lack of food and trenches stink of a latrine while spring begins.
 
 
-> It seemed dreadful that the defenders of the Republic should be this mob of ragged children carrying worn-out rifles which they did not know how to use. I remember wondering what would happen if a Fascist aeroplane passed our way—whether the airman would even bother to dive down and give us a burst from his machine-gun. Surely even from the air he could see that we were not real soldiers? (George Orwell. Homage to Catalonia)
+> It seemed dreadful that the defenders of the Republic should be this mob of ragged children carrying worn-out rifles which they did not know how to use. I remember wondering what would happen if a Fascist aeroplane passed our way—whether the airman would even bother to dive down and give us a burst from his machine-gun. Surely even from the air he could see that we were not real soldiers? 
+> <cite>George Orwell. Homage to Catalonia</cite>
 
 
 ![Spanish Civil War](https://media2.nekropole.info/2014/10/Dzordzs-Orvels.png)
@@ -43,10 +45,11 @@ The movie [# Land and Freedom](https://www.imdb.com/title/tt0114671) is most sui
 
 Unlike the aforementioned works, Montauk is not full of exciting events. The author in an autobiographical form tells about different stages of his life. A story without an integral plot reminds one of life itself. Relations with friends and lovers, the joys of work and a well-deserved vacation, the beauty of everyday life and deep self-reflection, this is what you will find in the book. Generally speaking, these features are characteristic of many of Frisch’s works ([Homo Faber](https://en.wikipedia.org/wiki/Homo_Faber_%28novel%29), [Stiller](https://de.wikipedia.org/wiki/Stiller_%28Max_Frisch%29), [Gantenbein](https://en.wikipedia.org/wiki/Gantenbein)). In each of this books you can trace author's nature in behaviour and thoughts of protagonist, who is facing with believable characters and problems.
 
-> The writer is afraid of feelings that are not suited to publication; he takes refuge then in irony; all he perceives is considered from the point of view of whether it is worth describing, and he dislikes experiences that can never be expressed in words. A professional disease that drives many writers to drink. (Max Frisch. Montauk)
+> The writer is afraid of feelings that are not suited to publication; he takes refuge then in irony; all he perceives is considered from the point of view of whether it is worth describing, and he dislikes experiences that can never be expressed in words. A professional disease that drives many writers to drink. 
+> <cite>Max Frisch. Montauk</cite>
 
 
-If we talk about cinema, then the analogy with the [Pateron](https://www.imdb.com/title/tt5247022) suggests itself. The film that can be called a joyful ode to everyday life.
+If we talk about cinema, then the analogy with the [Paterson](https://www.imdb.com/title/tt5247022) suggests itself. The film that can be called a joyful ode to everyday life.
 
 ![Paterson](https://disgustingmen.com/wp-content/uploads/2017/02/kinopoisk.ru-Paterson-2808833.jpg)
 
