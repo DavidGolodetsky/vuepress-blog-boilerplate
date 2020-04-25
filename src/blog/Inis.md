@@ -1,5 +1,5 @@
 ---
-title: Inis — my favourite board game so far
+title: Inis — my favorite board game so far
 date: 2020-04-22
 excerpt: The setting is about colonization of Ireland by ancient Celts. As a chieftain you need to conquest new lands, protect your clans and build sanctuaries to pray your gods
 type: post
@@ -14,7 +14,7 @@ tags:
 
 ![](https://cdn.1j1ju.com/thumbs/game-lg/medias/1b/d9/5c-inis-2018-cover.jpeg)
 
-Meet Inis —  my favourite board game so far. The setting is about colonization of Ireland by the ancient Celts. As a chieftain you need to conquer new lands, defend your clans and build sanctuaries to pray your gods. It's highly competitive, deep game with many opportunities for victory.
+Meet Inis —  my favorite board game so far. The setting is about colonization of Ireland by the ancient Celts. As a chieftain you need to conquer new lands, defend your clans and build sanctuaries to pray your gods. It's highly competitive, deep game with many opportunities for victory.
  [Inis on BGG](https://boardgamegeek.com/boardgame/155821/inis)
 
 ![Our holly table for board games](https://i.ibb.co/FxZq6V0/IMG-20200419-180445-336.jpg)
@@ -42,6 +42,6 @@ Here is the site of the author of the cover and most of the cards [Jim FitzPatri
 
 ![Clan in the Citadele](https://i.ibb.co/TgXgFWd/200033200856-33868.jpg)
 
-Surely there is a lot more to be said about this game, but better for you to try it yourself. And don't forget to pick the right music for that.  [Our favourite music for the game ](https://www.youtube.com/watch?v=nVRqq947lNo)
+Surely there is a lot more to be said about this game, but better for you to try it yourself. And don't forget to pick the right music for that.  [Our favorite music for the game ](https://www.youtube.com/watch?v=nVRqq947lNo)
 
 Wish you a great journey!  🎲 🎲 🎲
