@@ -12,7 +12,7 @@ tags:
 
 There is an opinion that a book has an advantage over a film in terms of immersing the reader in the different world, as his imagination is not limited to special effects. But here I would like to emphasize another aspect: when it’s not about fictional worlds, but about the real experience of the hero, his feelings, reality surrounding him — literature copes with this better through author's digressions or character's monologues. In this regard, I would like to share with you several of my favorite authors who wrote their works on the basis of their own experience.
 
-### Jon Krakauer. Into thin air
+## Jon Krakauer. Into thin air
 
 ![Everest](https://m1.35photo.pro/photos_series/1169/1169134.jpg)
 
