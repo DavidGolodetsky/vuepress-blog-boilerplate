@@ -10,7 +10,7 @@ tags:
 ---
 
 
-There is an opinion that a book has an advantage over a film in terms of immersing the reader in the different world, as his imagination is not limited to special effects. But here I would like to emphasize another aspect: when it’s not about fictional worlds, but about the real experience of the hero, his feelings, reality surrounding him - literature copes with this better through author's digressions or character's monologues. In this regard, I would like to share with you several of my favorite authors who wrote their works on the basis of their own experience.
+There is an opinion that a book has an advantage over a film in terms of immersing the reader in the different world, as his imagination is not limited to special effects. But here I would like to emphasize another aspect: when it’s not about fictional worlds, but about the real experience of the hero, his feelings, reality surrounding him — literature copes with this better through author's digressions or character's monologues. In this regard, I would like to share with you several of my favorite authors who wrote their works on the basis of their own experience.
 
 ### Jon Krakauer. Into thin air
 
@@ -20,7 +20,7 @@ Being a writer, Krakauer worked as a journalist in Outside magazine. At that tim
 
 > Now, for the first time on the expedition the vista was primarily sky rather than earth.
 >
-> -- <cite>Jon Krakauer. Into thin air</cite>
+>> <cite>Jon Krakauer. Into thin air</cite>
 
 In 2015 was released film [Everest](https://www.imdb.com/title/tt2719848/) where Krakauer was played by Michael Kelly. The film has amazing shots of the highest peaks of the planet, but there is no feeling of despair when a blizzard drowns out cries for help from those who lost track.
 
@@ -35,7 +35,7 @@ The writer admires the democratic system of the republican army, their self-orga
 
 > It seemed dreadful that the defenders of the Republic should be this mob of ragged children carrying worn-out rifles which they did not know how to use. I remember wondering what would happen if a Fascist aeroplane passed our way—whether the airman would even bother to dive down and give us a burst from his machine-gun. Surely even from the air he could see that we were not real soldiers? 
 >
-> -- <cite>George Orwell. Homage to Catalonia</cite>
+>> <cite>George Orwell. Homage to Catalonia</cite>
 
 
 ![Spanish Civil War](https://media2.nekropole.info/2014/10/Dzordzs-Orvels.png)
@@ -49,7 +49,7 @@ Unlike the aforementioned works, Montauk is not full of exciting events. The aut
 
 > The writer is afraid of feelings that are not suited to publication; he takes refuge then in irony; all he perceives is considered from the point of view of whether it is worth describing, and he dislikes experiences that can never be expressed in words. A professional disease that drives many writers to drink. 
 >
-> -- <cite>Max Frisch. Montauk</cite>
+>> <cite>Max Frisch. Montauk</cite>
 
 
 
