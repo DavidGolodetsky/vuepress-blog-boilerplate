@@ -5,7 +5,7 @@ excerpt: Hello World!
 type: post
 blog: true
 tags:
-    - Blogging
+    - Lifestyle
 ---
 
 ## Hello World!
