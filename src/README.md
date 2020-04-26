@@ -4,7 +4,7 @@ home: true
 heroText: DavidGo
 heroImage: /pencil.svg
 tagline: Let it be
-actionText: Read the latest →
+actionText: Blog →
 actionLink: /blog/
 features:
 - 
