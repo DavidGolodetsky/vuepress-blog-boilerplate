@@ -27,16 +27,12 @@ Both my girlfriend and I fond of it. We got it recently after the beginning of q
 
 ---
 
-Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. This most notable in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
+Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. This most notable in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it.
+On the other hand, the game gives you a lot of diplomatic opportunities, if you play it with 3-4 players (or 5 with Seasons extension). You need to create alliances against the mutual enemy, but  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
 
-In the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You must to create alliances against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
-
-There is a place for bluffing and playing giveaways. And of course, a pleasant portion of randomness that makes the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! 
+There is a place for bluffing and playing giveaways. And of course, there is a pleasant portion of randomness that makes the game — Epic tale cards. Each card is a reference to a certain Celtic myth and the artwork is just wonderful! [Jim FitzPatrick](https://www.jimfitzpatrick.com/) - is one of the game's artists.
 
 ![](https://images-cdn.asmodee.us/filer_public/db/47/db474f85-be6e-4b30-82ef-8f041e0ca0c2/ini01_card_deirdres-beauty.png)
-
-Here is the site of the author of the cover and most of the cards [Jim FitzPatrick](https://www.jimfitzpatrick.com/)
-
 
 ---
 
