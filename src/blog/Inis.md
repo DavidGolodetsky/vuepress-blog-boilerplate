@@ -1,7 +1,7 @@
 ---
 title: Inis — my favorite board game so far
 date: 2020-04-22
-excerpt: The setting is about colonization of Ireland by ancient Celts. As a chieftain you need to conquest new lands, protect your clans and build sanctuaries to pray your gods
+excerpt: The setting is about colonization of Ireland by ancient Celts. Being a chieftain, you need to conquest new lands, protect your clans and build sanctuaries to pray your gods
 type: post
 blog: true
 tags:
@@ -21,13 +21,13 @@ Meet Inis —  my favorite board game so far. The setting is about colonization 
 
 ---
 
-Me and my girlfriend both fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. Worth to notice that she plays much better than me, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
+Both my girlfriend and I fond of it. We got it recently after the beginning of quarantine and it made the lockdown almost painless 😄. It's worth mentioning that she plays much better than me, but I won't give it up so easily 😡. Here is our statistics from my app [GeekScore](https://geekscore.netlify.com/) which I should definitely write about later!
 
 ![GeekScore stats](https://i.ibb.co/P6SDCdg/Webp-net-resizeimage-1.jpg)
 
 ---
 
-Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. This shines the most in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
+Gameplay reminds me Ciclades or GoT, but drafting technique makes it more like chess. This most notable in duel games, since you know *almost* all your opponent's cards, and you can make cautious decisions upon it. 
 
 In the game with 3-4 players (or 5 with Seasons extension), it gives you a lot of diplomatic opportunities. You must to create alliances against the mutual enemy. But  you don't have to betray your associate in order to win in distinction from the above-mentioned games.
 
