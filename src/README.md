@@ -3,8 +3,7 @@ title: David Golodetskiy Blog
 home: true
 heroText: DavidGo
 heroImage: /pencil.svg
-tagline: Writing to get it.
---Henry Miller
+tagline: Let it be
 actionText: Blog →
 actionLink: /blog/
 features:
