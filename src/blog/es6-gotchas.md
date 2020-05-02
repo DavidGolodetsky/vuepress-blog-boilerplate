@@ -46,13 +46,13 @@ Speaking of constants, the author criticizes the approach when all variables are
 Another discovery for me was that functions in ES6 as well as `let` and `const` have block scope.
 
     {
-		foo();					// works!
+		foo(); // works!
 
 		function foo() {
 			// ..
 		}
 	}
-	foo();						// ReferenceError
+	foo(); // ReferenceError
 
 
 ##  Default value
