@@ -12,7 +12,7 @@ tags:
 
 I am currently reading - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson. It's a popular series of books in the world of web development. Now I'm on the book "ES6 and beyond", and I'm going to tell you about the moments that I found useful for myself.
 
-### let & const
+## let & const
 
 ![clean code meme](https://cdn-media-1.freecodecamp.org/images/0*q3-4kypImPD0VDPg.jpg)
 
@@ -54,7 +54,7 @@ Another discovery for me was that functions in ES6 as well as `let` and `const` 
 	foo();						// ReferenceError
 
 
-###  Default value
+##  Default value
 
 The new assignment of a default value in ES6 seemed to me a simple syntactic sugar, so I hadn't paid much attention to it before.
 
@@ -69,9 +69,8 @@ In addition, you can assign a default value during destructuring:
 
     let { x = 5 } = bar()
 
----
 
-###  Destructuring
+##  Destructuring
 ![destructuring meme](https://miro.medium.com/max/1240/1*TYifiOJXooG5bR6kXZmQEg.png)
 
 This destructuring syntax looks familiar:
