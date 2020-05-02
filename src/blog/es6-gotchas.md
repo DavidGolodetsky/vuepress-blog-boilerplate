@@ -12,9 +12,10 @@ tags:
 
 I am currently reading - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson. It's a popular series of books in the world of web development. Now I'm on the book "ES6 and beyond", and I'm going to tell you about the moments that I found useful for myself.
 
+![clean code meme](https://cdn-media-1.freecodecamp.org/images/0*q3-4kypImPD0VDPg.jpg)
+
 ## let & const
 
-![clean code meme](https://cdn-media-1.freecodecamp.org/images/0*q3-4kypImPD0VDPg.jpg)
 
 
 The author recommends declaring variables at the top of the block for better readability and so as not to run into a ReferenceError that occurs when you try to access a variable too early.
