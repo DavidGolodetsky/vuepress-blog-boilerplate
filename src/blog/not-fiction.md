@@ -22,15 +22,15 @@ Being a writer, Krakauer worked as a journalist in Outside magazine. At that tim
 >
 > — <cite>Jon Krakauer. Into thin air</cite>
 
-In 2015 was released film [Everest](https://www.imdb.com/title/tt2719848/) where Krakauer was played by Michael Kelly. The film has amazing shots of the highest peaks of the planet, but there is no feeling of despair when a blizzard drowns out cries for help from those who lost track.
+In 2015 film [Everest](https://www.imdb.com/title/tt2719848/) was released, where Krakauer was played by Michael Kelly. The film has amazing shots of the highest peaks of the planet, but there is no feeling of despair when a blizzard drowns out cries for help from those who lost track.
 
 
 ## George Orwell. Homage to Catalonia
 
 
-Orwell, you all know, not only invented a world of nightmare in the novel "1984", but also experienced something similar in 1936, when he went as a volunteer to Spain to fight fascism. It is this period, as the author claims, that has become decisive in his political worldview. This war is considered by historians as the first battle of two ideological worlds of the 20th century. It is worth mentioning that he was seriously injured in the neck and could never go down in history like a grinning lean British who talks about totalitarianism passing out recipes for making [tea with milk](https://en.wikipedia.org/wiki/A_Nice_Cup_of_Tea).  
+Orwell not only invented a world of nightmare in the famous novel "1984", but also experienced something similar in 1936, when he went as a volunteer to Spain to fight fascism. It is this period, as the author claims, that has become decisive in his political worldview. This war is considered by historians as the first battle of two ideological worlds of the 20th century. It is worth mentioning that he was seriously injured in the neck and could never go down in history like a grinning lean British who talks about totalitarianism passing out recipes for making [tea with milk](https://en.wikipedia.org/wiki/A_Nice_Cup_of_Tea).  
 
-The writer admires the democratic system of the republican army, their self-organization and devotion to ideals, but soon reality takes its toll. A dirty, brutal and ridiculous trench warfare, where recruits are taught to march instead of  shooting due to lack of ammunition. Military life is described in the smallest detail, lack of food and trenches stink of a latrine while spring begins.
+The writer admires the democratic system of the republican army, their self-organization and devotion to ideals, but soon reality takes its toll. A dirty, brutal and ridiculous trench warfare, where recruits are taught to march instead of  shooting due to lack of ammunition. Military life is described in the smallest detail: lack of food and trenches stink of a latrine while spring begins.
 
 
 > It seemed dreadful that the defenders of the Republic should be this mob of ragged children carrying worn-out rifles which they did not know how to use. I remember wondering what would happen if a Fascist aeroplane passed our way—whether the airman would even bother to dive down and give us a burst from his machine-gun. Surely even from the air he could see that we were not real soldiers? 
