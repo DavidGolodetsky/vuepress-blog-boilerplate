@@ -91,6 +91,15 @@ export default {
         this.selectedTags = this.selectedTags.concat(tag);
       }
     },
+    tagClass(tag) {
+      if (tag === "Coding") {
+        return "coding";
+      } else if (tag === "Lifestyle") {
+        return "lifestyle";
+      } else if (tag === "Board games") {
+        return "boardgames";
+      }
+    },
     removeTag(tag) {
       this.selectedTags.filter(t => t != tag);
     },
@@ -109,15 +118,17 @@ export default {
     </div>
     <ul class="blog-list">
       <li v-for="(item, index) in filteredList" class="blog-list__item">
+        <div class="blog-list__tags-wrapper">
+          <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
+            <li>
+              <button class="blog-list__tag" :class="tagClass(tag)" @click="addTag(tag)">{{ tag }}</button>
+            </li>
+          </ul>
+        </div>
         <BlogPostPreview
           v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize"
           :item="item"
         />
-        <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
-          <li>
-            <button @click="addTag(tag)">{{ tag }}</button>
-          </li>
-        </ul>
       </li>
     </ul>
 
@@ -146,10 +157,35 @@ export default {
 
 .blog-list__item {
   list-style-type: none;
+  margin-bottom: 6rem;
+}
+
+.blog-list__tags-wrapper {
+  display: flex;
 }
 
 .blog-list__tags {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  list-style: none;
+  padding: 0;
+}
+
+.blog-list__tag {
+  color: #fff;
+  background-color: teal;
+  border: 1px solid grey;
+  margin-right: 5px;
+  font-size: 16px;
+}
+.blog-list__tag.lifestyle {
+  background-color: yellowgreen;
+}
+.blog-list__tag.coding {
+  background-color: orange;
+}
+.blog-list__tag.boardgames {
+  background-color: purple;
 }
 
 .button--pagination {
