@@ -21,7 +21,6 @@ module.exports = {
 		startPage: 0
 	},
 	plugins: [
-		'img-lazy',
 		'vuepress-plugin-reading-time',
 		'vuepress-plugin-janitor',
 		'social-share',
