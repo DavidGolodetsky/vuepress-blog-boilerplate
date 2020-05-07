@@ -21,6 +21,11 @@ module.exports = {
 		startPage: 0
 	},
 	plugins: [
+		'img-lazy',
+		'vuepress-plugin-reading-time',
+		'vuepress-plugin-janitor',
+		'social-share',
+		"@vuepress/back-to-top",
 		[
 			'@vuepress/google-analytics',
 			{
@@ -35,11 +40,7 @@ module.exports = {
 				filter: frontmatter => frontmatter.date <= new Date(currentDateUTC),
 				count: 20
 			}
-		],
-		'vuepress-plugin-reading-time',
-		'vuepress-plugin-janitor',
-		'social-share',
-		"@vuepress/back-to-top"
+		]
 	],
 	head: [
 		['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-icon.png' }],
