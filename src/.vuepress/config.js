@@ -4,10 +4,10 @@ module.exports = {
 	title: 'DavidGo',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://github.com/DavidGolodetsky/vuepress-blog-boilerplate',
-		repoLabel: 'Repo',
+		// repo: 'https://github.com/DavidGolodetsky/vuepress-blog-boilerplate',
+		// repoLabel: 'Repo',
 		editLinks: true,
-		editLinkText: 'Found a bug? Help me improve this page!',
+		// editLinkText: 'Found a bug? Help me improve this page!',
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
