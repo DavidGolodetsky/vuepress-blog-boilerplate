@@ -16,6 +16,15 @@ features:
 - 
     title: Lifestyle
     details: Regular thoughts and deep contemplation if there are any :)
-
+socials: 
+- 
+    title: Twitter
+    link: https://twitter.com/david_go__
+- 
+    title: CodePen
+    link: https://codepen.io/DavidGolodetsky
+- 
+    title: GitHub
+    link: https://github.com/DavidGolodetsky
 footer: © DavidGo 2020. Made with VuePress.
 ---

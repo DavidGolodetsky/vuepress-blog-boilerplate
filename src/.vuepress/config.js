@@ -11,9 +11,7 @@ module.exports = {
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Blog', link: '/blog/' },
-			{ text: 'About', link: '/about/' },
 			{ text: 'Archive', link: '/archive/' },
-			{ text: 'RSS Feed', link: '/rss.xml' }
 		],
 		logo: '/pencil.svg',
 		docsDir: 'src',
@@ -32,7 +30,6 @@ module.exports = {
 			}
 		],
 		[
-			'vuepress-plugin-rss',
 			{
 				base_url: '/',
 				site_url: 'https://vuepressblog.org',
