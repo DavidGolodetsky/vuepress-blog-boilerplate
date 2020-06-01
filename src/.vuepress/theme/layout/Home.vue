@@ -21,7 +21,7 @@
 
     <Content custom />
 
-    <div class="features" v-if="data.socials && data.socials.length">
+    <div class="features socials" v-if="data.socials && data.socials.length">
       <div class="feature" v-for="(socials, index) in data.socials" :key="index">
         <a :href="socials.link">{{ socials.title }}</a>
       </div>
@@ -110,6 +110,10 @@ export default {
     align-items: flex-start;
     align-content: stretch;
     justify-content: space-between;
+  }
+
+  .features.socials {
+    flex-wrap: nowrap;
   }
 
   .feature {
