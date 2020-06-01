@@ -24,6 +24,12 @@ socials:
     title: CodePen
     link: https://codepen.io/DavidGolodetsky
 - 
+    title: LinkedIn
+    link: https://www.linkedin.com/in/david-golodetskyi
+- 
+    title: Instagram
+    link: https://www.instagram.com/david_go__
+- 
     title: GitHub
     link: https://github.com/DavidGolodetsky
 footer: © DavidGo 2020. Made with VuePress.
