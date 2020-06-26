@@ -9,7 +9,7 @@ tags:
 ---
 
 If during the quarantine you were lucky enough to be in the company of a loved one, then board games will come to the rescue from boredom and constant shine of a monitor.
-Though, not everyone is so keen on them to re-read the rules of Inish (my favorite [board game](https://davidgo.netlify.app/blog/Inis.html)) for the 10th time in order to understand the difference between initiator and instigator 😁 . In addition, the price of such "complex" games can push away іщьу beginner boardgamers. Perhaps the most budget games are the card games. Therefore, I have selected for you several card games for two that are not difficult to learn, but still incredibly exciting to play!
+Though, not everyone is so keen on them to re-read the rules of Inish (my favorite [board game](https://davidgo.netlify.app/blog/Inis.html)) for the 10th time in order to understand the difference between initiator and instigator 😁 . In addition, the price of such "complex" games can push away some beginner boardgamers. Perhaps the most budget games are the card games. Therefore, I have selected for you several card games for two that are not difficult to learn, but still incredibly exciting to play!
 
 ## Vampire Empire
 
