@@ -30,7 +30,7 @@ The game captivates with its atmosphere and gameplay. It is interesting to play 
 
 ![enter image description here](https://i.ibb.co/jDK77Xv/IMG-1671200.jpg)
 
-The setting of this game is built around [fairy tale](https://foxtrotgames.com/forest/the-fairy-tale/), written specifically for it (where else have you seen this?). This cute, seemingly simple betting game has interesting mathematical mechanics. The game consists of several parties during which one of the players must score 21 points. The highlight of the game is that if a player wins too many bets, then the opponent gets more points. This gives you some room to "outfox" your opposer.
+The setting of this game is built around [fairy tale](https://foxtrotgames.com/forest/the-fairy-tale/), written specifically for it (where else have you seen this? 😌). This cute, seemingly simple betting game has interesting mathematical mechanics. The game consists of several parties during which one of the players must score 21 points. The highlight of the game is that if a player wins too many bets, then the opponent gets more points. This gives you some room to "outfox" your opposer.
 
 [BGG](https://boardgamegeek.com/boardgame/221965/fox-forest)
 
@@ -41,4 +41,4 @@ The setting of this game is built around [fairy tale](https://foxtrotgames.com/f
 [BGG](https://boardgamegeek.com/boardgame/147020/star-realms)
 
 Cosmic invaders at the doorstep! One of the brightest deck-building games, as well as one of the best duel games, will not leave you indifferent. The rules are simple, you need to destroy the opponent, but there are many tactics, especially if you play with add-ons. There is four fraction
-of ships, each of fraction has it's advantages and disadvantages. You cannot win by building your deck based only on one fraction. In order to be efficient you need to balance between them all and build connections. We played this game most of all games, it is very addictive. Once they even tried the cooperative mode, but this turned out to be not our option.
+of ships, each of fraction has it's advantages and disadvantages. You cannot win by building your deck based only on one fraction (at least I can't 😅). In order to be efficient you need to balance between them all and build connections. We played this game most of all games, it is very addictive. Once they even tried the cooperative mode, but this turned out to be not our option.
