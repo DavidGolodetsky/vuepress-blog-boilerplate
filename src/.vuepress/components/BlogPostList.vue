@@ -15,14 +15,14 @@ export default {
       default: 0
     }
   },
-  data() {
+  data () {
     return {
       currentPage: Math.ceil(this.startPage / this.pageSize),
       selectedTags: []
     };
   },
   computed: {
-    filteredList() {
+    filteredList () {
       if (this.pages) {
         return this.pages
           .filter(item => {
@@ -60,12 +60,12 @@ export default {
       }
     },
 
-    totalPages() {
+    totalPages () {
       return Math.ceil(this.filteredList.length / this.pageSize);
     }
   },
 
-  mounted() {
+  mounted () {
     this.currentPage = Math.min(
       Math.max(this.currentPage, 0),
       this.totalPages - 1
@@ -73,16 +73,16 @@ export default {
   },
 
   methods: {
-    nextPage() {
+    nextPage () {
       this.currentPage =
         this.currentPage >= this.totalPages - 1
           ? this.totalPages - 1
           : this.currentPage + 1;
     },
-    previousPage() {
+    previousPage () {
       this.currentPage = this.currentPage < 0 ? 0 : this.currentPage - 1;
     },
-    addTag(tag) {
+    addTag (tag) {
       const tagExists = this.selectedTags.some(item => {
         return item === tag;
       });
@@ -91,7 +91,7 @@ export default {
         this.selectedTags = this.selectedTags.concat(tag);
       }
     },
-    tagClass(tag) {
+    tagClass (tag) {
       if (tag === "Coding") {
         return "coding";
       } else if (tag === "Lifestyle") {
@@ -100,10 +100,10 @@ export default {
         return "boardgames";
       }
     },
-    removeTag(tag) {
+    removeTag (tag) {
       this.selectedTags.filter(t => t != tag);
     },
-    resetTags() {
+    resetTags () {
       this.selectedTags = [];
     }
   }
@@ -112,27 +112,42 @@ export default {
 
 <template>
   <div>
-    <div v-if="selectedTags.length > 0" class="filtered-heading">
+    <div
+      v-if="selectedTags.length > 0"
+      class="filtered-heading"
+    >
       <h2>Filtered by {{ selectedTags.join(',') }}</h2>
-      <button type="button" @click="resetTags" class="btn clear-filter-btn">Clear filter</button>
+      <button
+        type="button"
+        @click="resetTags"
+        class="btn clear-filter-btn"
+      >Clear filter</button>
     </div>
     <ul class="blog-list">
-      <li v-for="(item, index) in filteredList" class="blog-list__item">
+      <li
+        v-for="(item, index) in filteredList"
+        class="blog-list__item"
+      >
         <div class="blog-list__tags-wrapper">
-          <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
+          <ul
+            v-for="tag in item.frontmatter.tags"
+            class="blog-list__tags"
+          >
             <li>
-              <button class="blog-list__tag" :class="tagClass(tag)" @click="addTag(tag)">{{ tag }}</button>
+              <button
+                class="blog-list__tag"
+                :class="tagClass(tag)"
+                @click="addTag(tag)"
+              >{{ tag }}</button>
             </li>
           </ul>
         </div>
-        <BlogPostPreview
-          v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize"
-          :item="item"
-        />
+        <!-- TODO: fix pagination. it was for BLogPostPreview: v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize" -->
+        <BlogPostPreview :item="item" />
       </li>
     </ul>
 
-    <div class="pagination">
+    <!-- <div class="pagination">
       <button
         v-show="currentPage > 0"
         @click="previousPage"
@@ -145,7 +160,7 @@ export default {
         class="button--pagination"
         type="button"
       >Next</button>
-    </div>
+    </div> -->
   </div>
 </template>
 
