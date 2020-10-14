@@ -192,7 +192,7 @@ export default {
 
     .hero {
       img {
-        max-height: 210px;
+        max-height: 300px;
         margin: 2rem auto 1.2rem;
       }
 
