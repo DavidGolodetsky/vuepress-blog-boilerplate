@@ -1,7 +1,7 @@
 ---
 title: Table for two
 date: 2020-06-26
-excerpt: If during the quarantine you were lucky enough to be in the company of a loved one, then board games will come to the rescue from boredom and constant shine of a monitor...
+excerpt: If during the quarantine you were lucky enough to be in the company of a loved one, then board games will come to the rescue from boredom and the constant shine of a monitor...
 type: post
 blog: true
 tags:
