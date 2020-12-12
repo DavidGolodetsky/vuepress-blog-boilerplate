@@ -1,18 +1,18 @@
 ---
-title: David Golodetskiy Blog
+title: David Golodetsky Blog
 home: true
 heroText: DavidGo
 heroImage: /photo.jpg
-tagline: If you tired of numerous personal blogs, sorry here's another one:)
-actionText: Blog →
+tagline: Personal Blog
+actionText: Read →
 actionLink: /blog/
 features:
   - title: Coding
-    details: As a web developer I'm going to post some of my daily gotchas and viewpoints.
+    details: As a web developer, I'm going to post some of my daily gotchas and viewpoints.
   - title: Board games
-    details: At some point I discovered myself as a nerdy boardgamer, so I'm going to share with you my journey in this exciting little world!
+    details: At some point, I discovered myself as a nerdy board gamer, so I'm going to share with you my journey in this exciting little world!
   - title: Lifestyle
-    details: Besides, I enjoy a bunch of regular stuff, like traveling, watching movies and photography.
+    details: Besides, I enjoy a bunch of regular stuff, like traveling, watching movies, and photography.
 socials:
   - title: Twitter
     link: https://twitter.com/david_go__

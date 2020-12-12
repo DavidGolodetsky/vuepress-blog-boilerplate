@@ -5,7 +5,7 @@ excerpt: Perhaps the best way to learn new technologies is to build your pet pro
 type: post
 blog: true
 tags:
-  - Boardgames
+  - Board games
   - Coding
 ---
 
@@ -33,7 +33,6 @@ In sum, after a couple of weeks, I finished the [prototype](https://geekstat.net
 
 I love Vue for its clarity. Learning to think in the Vue way is much easier than in the Angular way. I will not exaggerate, but it took me much less time to reproduce what I wrote on Angular. I changed the project name to Geek Score, wrote a dark theme with an orange accent, and created a logo. I used Firebase again as backend, however this time I added authentication and Firestore to store photos. For state management, I used Vuex, and Vuetify as a UI library.
 A new approach that I have long wanted to try was [PWA](https://en.wikipedia.org/wiki/Progressive_web_application) (Progressive Web Application). The idea here is that the site can be used as an application — it can be installed on the phone and it can work offline. Although this technology is already several years old, it is still in an experimental state. Since the work of the application offline is achieved by caching files using Service Worker, you need to try hard to ensure that the synchronization is successful. We can say that at this stage I only laid the foundations of the real PWA, and there is still a lot of work in this regard. Anyway, I have deployed the MVP that I still use. The application consists of 3 logical entities (collections): games, teams, and rounds. Additional features were that you can see a graph of victories drawn using the [vue-chartjs](https://vue-chartjs.org) library, and you can also add a team photo interacting with the phone camera directly through the app. Check out how cool it looks on a phone screen 🤓
-
 
 ![enter image description here](https://i.ibb.co/Jn7JFg5/photo-2020-10-14-21-34-07.jpg)
 

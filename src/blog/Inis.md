@@ -5,7 +5,7 @@ excerpt: The setting is about colonization of Ireland by ancient Celts. Being a 
 type: post
 blog: true
 tags:
-  - Boardgames
+  - Board games
 ---
 
 > At the head of your ship, you eagerly search for any sign of land. As
@@ -17,7 +17,7 @@ tags:
 Meet Inis — my favorite board game so far. The setting is about colonization of Ireland by the ancient Celts. As a chieftain you need to conquer new lands, defend your clans and build sanctuaries to pray your gods. It's highly competitive, deep game with many opportunities for victory.
 [Inis on BGG](https://boardgamegeek.com/boardgame/155821/inis)
 
-![Our holly table for boardgames](https://i.ibb.co/FxZq6V0/IMG-20200419-180445-336.jpg)
+![Our holly table for board games](https://i.ibb.co/FxZq6V0/IMG-20200419-180445-336.jpg)
 
 ---
 
