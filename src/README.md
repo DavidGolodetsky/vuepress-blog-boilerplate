@@ -3,7 +3,7 @@ title: David Golodetsky Blog
 home: true
 heroText: DavidGo
 heroImage: /photo.jpg
-tagline: Personal Blog
+tagline: If you are tired of numerous personal blogs, well, sorry here's another one:)
 actionText: Read →
 actionLink: /blog/
 features:
