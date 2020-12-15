@@ -1,6 +1,6 @@
 ---
 title: Vue Tips & Tricks
-date: 2020-12-16
+date: 2020-12-15
 excerpt: Recently I've been tweeting some Vue.js tips that I found along the way diving deeper into the Vue world...
 type: post
 blog: true
