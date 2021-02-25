@@ -1,5 +1,5 @@
 ---
-title: ES6 and beyond. Gotchas (part 1)
+title: ES6 and beyond. Gotchas.
 date: 2020-05-02
 excerpt: I am currently reading - You don’t know JS by Kyle Simpson. It’s a popular series of books in the world of web development
 type: post
