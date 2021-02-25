@@ -3,7 +3,7 @@ title: David Golodetsky Blog
 home: true
 heroText: DavidGo
 heroImage: /photo.jpg
-tagline: Tech blog of a Vue.js developer
+tagline: A tech blog of a Vue.js developer
 actionText: Read →
 actionLink: /blog/
 features:
