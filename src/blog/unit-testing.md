@@ -1,6 +1,6 @@
 ---
 title: Unit testing experience
-date: 2020-03-04
+date: 2021-03-05
 excerpt: Testing has always been something mysterious and difficult for me. As is often the case, tests are written afterward, as something that would be great to have at the end of the project...
 type: post
 blog: true
