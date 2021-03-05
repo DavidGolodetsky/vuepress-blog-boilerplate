@@ -6,6 +6,7 @@ type: post
 blog: true
 tags:
   - Lifestyle
+  - Coding
 ---
 
 Now that this crazy year is finally over, it's time to take stock of what 2020 has turned out to be for me. TL;DR is nervous but productive.

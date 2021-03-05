@@ -8,8 +8,6 @@ tags:
   - Coding
 ---
 
-# Unit testing
-
 ![enter image description here](http://www.everydayunittesting.com/wp-content/uploads/2016/03/106y5w1.jpg)
 
 ## 1. Why you should test
