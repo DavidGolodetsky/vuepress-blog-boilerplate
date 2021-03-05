@@ -1,5 +1,5 @@
 ---
-title: My experience with Unit testing
+title: Unit tests for a Quasar app
 date: 2021-03-05
 excerpt: Testing has always been something mysterious and difficult for me. As is often the case, tests are written afterward, as something that would be great to have at the end of the project...
 type: post
@@ -40,7 +40,7 @@ It is also highly recommended to enable pre-push hook, for example using [Husky]
 
 **Quasar + Vue test-utils**
 
-Now I will explain the implementation details. In this project, we used Quasar as a frontend framework. Quasar has an [extension](https://testing.quasar.dev/) for basic test solutions, including Jest, which we are using. Quasar has a small [documentation](https://testing.quasar.dev/packages/unit-jest/) about the Jest extension, which uses the official Vue unit testing library [@ vue / test-utils](https: // vue-test-utils.vuejs.org/) under the hood. Speaking of documentation, it's also worth mentioning the [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/) a helpful guide for writing unit tests with the vue test-utils, from one of its core developers.
+Now I will explain the implementation details. In this project, we used Quasar as a frontend framework. Quasar has an [extension](https://testing.quasar.dev/) for basic test solutions, including Jest, which we are using. Quasar has a small [documentation](https://testing.quasar.dev/packages/unit-jest/) about the Jest extension, which uses the official Vue unit testing library [@vue/test-utils](https://vue-test-utils.vuejs.org/) under the hood. Speaking of documentation, it's also worth mentioning the [Vue Testing Handbook](https://lmiller1990.github.io/vue-testing-handbook/) a helpful guide for writing unit tests with the vue test-utils, from one of its core developers.
 So, combining all these materials, we can get a basic idea of how you can write unit tests with Quasar. However, the implementation of Quasar has some differences from the plain vue test-utils approach, and the documentation does not reveal it that much. I will give some examples that may be useful to those who decided to start writing unit tests using this stack.
 
 **Test setup**
