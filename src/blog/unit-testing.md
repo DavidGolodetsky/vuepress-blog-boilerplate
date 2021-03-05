@@ -10,9 +10,9 @@ tags:
 
 # Unit testing
 
-## 1. Why you should test
-
 ![enter image description here](http://www.everydayunittesting.com/wp-content/uploads/2016/03/106y5w1.jpg)
+
+## 1. Why you should test
 
 Testing has always been something mysterious and difficult for me. As is often the case, tests are written afterward, as something that would be great to have at the end of the project. And when you try to attach tests to a working functionality, it's just discouraging, and you don't see what would justify such suffering. Therefore, my relationship with the tests did not work out before that :) However, on a new project, we decided to do everything right, and now I'm with tests on a short leg!
 So why should you trouble yourself writing tests for your code?
